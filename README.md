@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joaquingzapiola
 - 👀 I’m interested in HTML, CSS and JS
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning JS and REACT.JS
 - 💞️ I’m looking to collaborate on proyects that involve my interests
 - 📫 How to reach me joaquingz@outlook.com
 
